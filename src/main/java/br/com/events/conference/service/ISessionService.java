@@ -5,7 +5,7 @@ import br.com.events.conference.model.Session;
 import java.util.List;
 
 public interface ISessionService {
-    Session addSession(Session session);
-    Session getSessionById(Long id);
-    List<Session> getAllSessions();
+    public Session addSession(Session session);
+    public Session getSessionById(Long id);
+    public List<Session> getAllSessions();
 }
