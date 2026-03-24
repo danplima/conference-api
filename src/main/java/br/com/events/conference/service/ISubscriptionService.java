@@ -1,7 +1,8 @@
-package service;
+package br.com.events.conference.service;
 
-import model.Subscription;
-import model.User;
+import br.com.events.conference.model.Session;
+import br.com.events.conference.model.Subscription;
+import br.com.events.conference.model.User;
 
 import java.util.List;
 

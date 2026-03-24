@@ -1,10 +1,9 @@
-package model;
+package br.com.events.conference.model;
 
 import jakarta.persistence.*;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
-import java.util.List;
 
 @Entity
 @Table(name = "tbl_session")

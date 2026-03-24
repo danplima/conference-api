@@ -1,4 +1,4 @@
-package model;
+package br.com.events.conference.model;
 
 import jakarta.persistence.*;
 
